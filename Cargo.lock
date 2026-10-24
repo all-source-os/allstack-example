@@ -1,0 +1,5 @@
+version = 4
+
+[[package]]
+name = "allstack-example"
+version = "0.1.0"
